@@ -166,14 +166,6 @@
               "description": "Cloudflare以向客户提供基于反向代理的内容分发网络及分布式域名解析服务为主要业务。",
               "icon": "/assets/images/logos/cloudflar.ico",
               "enabled": true
-            },
-            {
-              "id": "1735612629450",
-              "title": "netlify",
-              "href": "https://www.netlify.com/",
-              "description": "Netlify is the essential platform for the delivery of exceptional and dynamic web experiences, without limitations.",
-              "icon": "/assets/img_1735612745862.png",
-              "enabled": true
             }
           ]
         },
