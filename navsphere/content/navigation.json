@@ -499,6 +499,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754037050212",
+      "title": "自搭建系统",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
